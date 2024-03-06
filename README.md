@@ -1,10 +1,10 @@
 # circle-to-search
 Get Google's Circle to Search feature on your device!
 
-# Recording of Circle to Search
+# Circle to Search in Action!
+https://github.com/fillwithjoy1/circle-to-search/assets/29514446/88fb1273-16f4-406b-8852-82456fd3e2ae
 
 
-https://github.com/fillwithjoy1/circle-to-search/assets/29514446/c0dab01a-7d49-4cd9-bdd0-826868de71b1
 
 # Notes
 - You'll need to spoof your device as Pixel 7/8 series. Search up PixelProps and get the relevant props to spoof your device
