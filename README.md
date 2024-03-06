@@ -1,5 +1,6 @@
 # circle-to-search
 Get Google's Circle to Search feature on your device!
+Note: You may need to spoof the Google app to tell that you have a "Pixel 8" device. In that case, see my other repo (circle-to-search-spoofer)[https://github.com/fillwithjoy1/circle-to-search-spoofer]
 
 # Circle to Search in Action!
 https://github.com/fillwithjoy1/circle-to-search/assets/29514446/88fb1273-16f4-406b-8852-82456fd3e2ae
