@@ -1,10 +1,17 @@
 # circle-to-search
 Get Google's Circle to Search feature on your device!
-Note: You may need to spoof the Google app to tell that you have a "Pixel 8" device. In that case, see my other repo (circle-to-search-spoofer)[https://github.com/fillwithjoy1/circle-to-search-spoofer]
+Note: You may need to spoof the Google app to tell that you have a "Pixel 8" device. See notes/guide for more info.
 
 # Circle to Search in Action!
 https://github.com/fillwithjoy1/circle-to-search/assets/29514446/88fb1273-16f4-406b-8852-82456fd3e2ae
 
+# Guide
+1. Install and flash this module
+2. Reboot
+NOTE: You will now need to spoof your device as Pixel 8. You have 2 options (with or without LSPosed)
+a) Spoof the **entire device**, which may break apps (such as the GCam). In that case look into (PixelProps)[t.me/PixelProps], or (beta props)[https://www.pling.com/p/2129780/]
+b) Spoof **just the Google app**. You **need LSPosed** for this
+b2) Next download the Cts (Circle to Search) Spoofer from (here)[github.com/fillwithjoy1/circle-to-search-spoofer] and then enable in LSPosed. Reboot
 
 
 # Notes
