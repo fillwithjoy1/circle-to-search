@@ -14,6 +14,6 @@ https://github.com/fillwithjoy1/circle-to-search/assets/29514446/88fb1273-16f4-4
 4. Open Settings > Display > Gesture Navigation and see if you have "Hold handle to search" on. Screenshot below ![share_305687892272846497](https://github.com/fillwithjoy1/circle-to-search/assets/29514446/4fbf74fa-e66c-4c7e-b036-ef783fecd26e)
 
 ## Part 2 - Spoofing your device as Pixel 8
-For this part, you'll need to spoof your device as the Pixel 8 app. I personally have another project that does that over [there](github.com/fillwithjoy1/circle-to-search-spoofer), follow the instructions over there and you'll be fine :)
+For this part, you'll need to spoof your device as the Pixel 8 app. I personally have another project that does that over [there](https://github.com/fillwithjoy1/circle-to-search-spoofer), follow the instructions over there and you'll be fine :)
 
 Note: If you have your own spoofing solution, you'll need to trick the Google Search app (com.google.android.quicksearchbox)
