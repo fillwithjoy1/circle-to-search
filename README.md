@@ -19,7 +19,6 @@ For this part, you'll need to spoof your device as the Pixel 8 app. I personally
 Note: If you have your own spoofing solution, you'll need to trick the Google Search app (com.google.android.quicksearchbox)
 
 # For ROM Developers
-_This section hasn't been tested at all. I've only written what **I believe** will add circle to search on your ROM_
 
 Checklist:
 1. Use Pixel Launcher as the default launcher. This should persist across recent apps as well (probably)
