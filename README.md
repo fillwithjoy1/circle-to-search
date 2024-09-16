@@ -1,4 +1,4 @@
-# circle-to-search
+# circle-to-search (Root required)
 - Get Google's Circle to Search feature on your device!
 - Note 1: This works well on Pixel devices running Android 14
 - Note 2: You'll need to spoof the Google app to tell that you have a "Pixel 8" device. This will be explored more in the guide.
