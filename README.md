@@ -1,6 +1,6 @@
 # circle-to-search (Root required)
 - Get Google's Circle to Search feature on your device!
-- Note 1: This works well on Pixel devices running Android 14
+- Note 1: This works well on Pixel devices running Android 14. Any issues opened about it not working on "XYZ ROM" will be closed immediately!
 - Note 2: You'll need to spoof the Google app to tell that you have a "Pixel 8" device. This will be explored more in the guide.
 - Note 3: Assistant features may be disabled after flashing. This is normal, you need to connect to Wi-Fi to finish setting up (see [#2](https://github.com/fillwithjoy1/circle-to-search/issues/2))
 
