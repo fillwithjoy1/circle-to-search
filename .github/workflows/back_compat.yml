@@ -1,0 +1,28 @@
+name: back_compat.yml
+on:
+  push:
+    branches:
+      - android-13-back-compat
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: android-13-back-compat
+
+      - name: Run script
+        run: |
+          cd .github/scripts
+          mv change_sdk_version.sh ..
+          cd ../files
+          mv build.prop ..
+          cd ..
+          chmod +x change_sdk_version.sh
+          ./change_sdk_version.sh
+
+      - name: Paste result
+        uses: actions/upload-artifact@v4.4.3
+        with:
+          path: build.prop
