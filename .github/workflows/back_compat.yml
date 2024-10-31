@@ -14,29 +14,15 @@ jobs:
 
       - name: Run script
         run: |
-          ls
-          echo
           cd .github/scripts
-          ls
-          echo
           mv change_sdk_version.sh ..
-          ls
-          echo
           cd ../files
-          ls
-          echo
           mv build.prop ..
-          ls
-          echo
           cd ..
-          ls
-          echo
           chmod +x change_sdk_version.sh
-          ls
-          echo
           ./change_sdk_version.sh
 
       - name: Paste result
         uses: actions/upload-artifact@v4.4.3
         with:
-          path: build.prop
+          path: .github/build.prop
