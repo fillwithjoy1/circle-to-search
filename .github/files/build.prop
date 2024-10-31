@@ -19,7 +19,7 @@ ro.system.build.type=user
 ro.system.build.version.incremental=11875680
 ro.system.build.version.release=14
 ro.system.build.version.release_or_codename=14
-ro.system.build.version.sdk=34
+ro.system.build.version.sdk=33
 ####################################
 # from out/target/product/raven/obj/PACKAGING/system_build_prop_intermediates/buildinfo.prop
 ####################################
