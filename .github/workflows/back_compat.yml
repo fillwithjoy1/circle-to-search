@@ -14,12 +14,19 @@ jobs:
 
       - name: Run script
         run: |
+          ls
           cd .github/scripts
+          ls
           mv change_sdk_version.sh ..
+          ls
           cd ../files
+          ls
           mv build.prop ..
+          ls
           cd ..
+          ls
           chmod +x change_sdk_version.sh
+          ls
           ./change_sdk_version.sh
 
       - name: Paste result
