@@ -15,6 +15,7 @@ jobs:
           mv make_module.sh ../../
           cd ../..
           chmod +x make_module.sh
+          ./make_module.sh
 
       - name: Upload module
         uses: actions/upload-artifact@v4.4.3
